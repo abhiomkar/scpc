@@ -1,7 +1,7 @@
 scpc
 ====
 
-** (compress here - do scp - uncompress there) **
+**compress here - do scp - uncompress there**
 
 The `scp` command when used recursively each file will be sent on a new connection - which is very slow when uploading multiple files.
 
